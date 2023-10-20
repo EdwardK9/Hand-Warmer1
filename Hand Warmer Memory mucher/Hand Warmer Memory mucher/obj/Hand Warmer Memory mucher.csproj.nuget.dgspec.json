@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\RHEA\\HOME\\2022\\22EK2675\\Documents\\GitHub\\Hand-Warmer\\Hand Warmer Memory mucher\\Hand Warmer Memory mucher\\Hand Warmer Memory mucher.csproj": {}
+  },
+  "projects": {
+    "\\\\RHEA\\HOME\\2022\\22EK2675\\Documents\\GitHub\\Hand-Warmer\\Hand Warmer Memory mucher\\Hand Warmer Memory mucher\\Hand Warmer Memory mucher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\RHEA\\HOME\\2022\\22EK2675\\Documents\\GitHub\\Hand-Warmer\\Hand Warmer Memory mucher\\Hand Warmer Memory mucher\\Hand Warmer Memory mucher.csproj",
+        "projectName": "Hand Warmer Memory mucher",
+        "projectPath": "\\\\RHEA\\HOME\\2022\\22EK2675\\Documents\\GitHub\\Hand-Warmer\\Hand Warmer Memory mucher\\Hand Warmer Memory mucher\\Hand Warmer Memory mucher.csproj",
+        "packagesPath": "C:\\Users\\22EK2675\\.nuget\\packages\\",
+        "outputPath": "\\\\RHEA\\HOME\\2022\\22EK2675\\Documents\\GitHub\\Hand-Warmer\\Hand Warmer Memory mucher\\Hand Warmer Memory mucher\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\22EK2675\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
